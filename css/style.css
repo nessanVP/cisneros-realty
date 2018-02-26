@@ -1,49 +1,50 @@
 body {
     background-color: #b3bbc9;
     margin-bottom: 5%;
-}
-
-h1 {
+  }
+  
+  h1 {
     text-align: center;
     color: #2d61b7;
     font-weight: bold;
-    font-size: 4em;
-}
-
-.header {
+    padding-top: 3%;
+  }
+  
+  .header {
     margin-top: 3%;
     text-align: center;
-}
-
-.jumbotron {
+  }
+  
+  .jumbotron {
     background-color: #dee1e5;
     margin: 5%;
     padding: 3%;
     color: #53575a;
-}
-
-.profile {
+  }
+  
+  .profile {
     display: block;
     margin: auto;
     padding: 3%;
     border-radius: 50%;
     height: 250px;
-}
-
-nav {
+  }
+  
+  nav {
     height: 10%;
     font-weight: bold;
-}
-
-.navbar-header {
-    font-family: 'Merienda';font-size: 22px;
-}
-
-h2 {
+  }
+  
+  .navbar-header {
+    font-family: "Merienda";
+    font-size: 22px;
+  }
+  
+  h2 {
     text-align: center;
     font-style: oblique;
-}
-.review {
+  }
+  .review {
     color: #767f8e;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -52,44 +53,45 @@ h2 {
     height: auto;
     overflow: hidden;
     font-size: 16px;
-}
-
-footer {
+  }
+  
+  footer {
     font-style: italic;
-}
-
-.home-page {
+  }
+  
+  .home-page {
     display: block;
     margin: 0 auto;
-    height: 80%;
-    width: 80%;
+    width: 60%;
+    height: auto;
     border-radius: 8px;
     padding: 0;
-}
-
-.home h1 {
-    font-size: 3em;
+  }
+  
+  .home h1 {
+    font-size: 2.5em;
     margin: 3% 0;
-}
-.home {
+  }
+  .home {
     padding: 0 10%;
-}
-
-p.big {
+  }
+  
+  p.big {
     line-height: 200%;
     font-size: 16px;
-}
-
-.header h1 {
+  }
+  
+  .header h1 {
     font-size: 3em;
-}
-
-footer .fa {
+  }
+  
+  footer .fa {
     margin-right: 5%;
     margin-top: 5%;
-}
-
-.center {
+  }
+  
+  .center {
     margin: auto;
-    text-align:center;
-}
+    text-align: center;
+  }
+  
